@@ -12,7 +12,7 @@ cd SKIPLI_AI
 
 cd skipli-ai-backend
 npm install
-
+  2.1 Tạo file serviceAccountKey.json ngoài thư mục gốc để lấy key trong firebase
 
 cd ../skipli-ai
 npm install
